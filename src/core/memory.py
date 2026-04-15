@@ -9,7 +9,6 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
 class OrionMemory:
     """
     ORION Memory v3.1 (HARDENED)
