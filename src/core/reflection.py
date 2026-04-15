@@ -1,7 +1,6 @@
 # reflection.py
 import json
 
-
 class OrionReflection:
     """
     ORION Reflection – Phase 3.4 (AI POWERED)
