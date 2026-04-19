@@ -41,7 +41,6 @@ class DocumentWriter:
 
                 doc.add_paragraph(text, style=style)
                 continue
-
             # ───── HORIZONTAL RULE ─────
             if line.startswith(
                     "---") or line.startswith("===") or line.startswith("___"):
