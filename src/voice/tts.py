@@ -5,7 +5,6 @@ import os
 # import torch
 # from nemo.collections.tts.models import FastPitchModel, HifiGanModel
 
-
 class OrionTTS:
     """
     NeMo-based TTS (FastPitch + HifiGan).
