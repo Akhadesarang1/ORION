@@ -20,6 +20,7 @@ const OrionAI = () => {
   const chatEndRef = useRef(null);
 
   // Document Generation State
+  
   const [isGenerating, setIsGenerating] = useState(false);
   const [genProgress, setGenProgress] = useState(0);
   const [genMessage, setGenMessage] = useState('');
